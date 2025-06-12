@@ -29,6 +29,8 @@ Mousio Hint is an auxiliary enhancement tool that works in conjunction with the 
 
 Mousio Hint's core function is to generate **keyboard shortcut hints** next to on-screen UI elements. These hints allow you to quickly move your mouse pointer to the target location using only your keyboard, completely eliminating the need for manual mouse operation.
 
+![Mousio Hint](./assets/mousio-hint2.gif)
+
 The main [Mousio app](https://apps.apple.com/app/Mousio/6746747327) supports running in sandbox mode. However, Mousio Hint **cannot function properly in a sandboxed environment** because it requires access to and location of UI elements. Please note that Mousio Hint is essentially an auxiliary positioning tool that links with Mousio through its settings.
 
 In some applications, if the system cannot fully retrieve all UI elements, you can directly use Mousio. In such cases, the operating experience will be more akin to playing a game, giving you **precise control over the mouse cursor's position**.
