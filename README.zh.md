@@ -15,6 +15,7 @@
     <a href="./README.md">English</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/mousio/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
     <a href="./CHANGELOG.zh.md">更新日志</a>
+    <a href="https://wangchujiang.com/mousio/" target="_blank">Mousio</a>
   </p>
   <p>
     <a target="_blank" href="https://github.com/jaywcjlove/mousio-hint/releases/latest/" title="Mousio Hint for macOS">
