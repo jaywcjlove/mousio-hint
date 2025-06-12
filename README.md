@@ -36,7 +36,7 @@ The main [Mousio](https://apps.apple.com/app/Mousio/6746747327) app supports run
 
 In some applications, if the system cannot fully retrieve all UI elements, you can directly use Mousio. In such cases, the operating experience will be more akin to playing a game, giving you **precise control over the mouse cursor's position**.
 
-By combining this with the powerful features offered by Mousio, including:
+By combining this with the powerful features offered by [Mousio](https://apps.apple.com/app/Mousio/6746747327), including:
 
 - ⌨️ Keyboard scroll wheel control
 - 🎯 Precise cursor movement
