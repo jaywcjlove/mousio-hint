@@ -41,7 +41,7 @@ jobs:
           keywords: Mousio,Mousio Hint,shortcut hints,keyboard control,mouse pointer navigation,macOS tools,system productivity,mouse-free control,grid positioning,scroll control
           favicon: assets/logo.png
           logo: ./assets/logo.png
-          openSource: https://github.com/jaywcjlove/mousio
+          openSource: https://github.com/jaywcjlove/mousio-hint
           tocs: false
           element: 
             wrapper: style=max-width:720px;
