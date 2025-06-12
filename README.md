@@ -13,13 +13,13 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">简体中文</a> • 
+    <a href="https://wangchujiang.com/mousio/" target="_blank">Mousio</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/mousio/issues/new?template=bug_report.yml">Contact & Support</a> • 
     <a href="./CHANGELOG.md">Changelog</a>
-    <a href="https://wangchujiang.com/mousio/" target="_blank">Mousio</a>
   </p>
   <p>
     <a target="_blank" href="https://github.com/jaywcjlove/mousio-hint/releases/latest/" title="Mousio Hint for macOS">
-      <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
+      <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg">
     </a>
   </p>
 </div>
