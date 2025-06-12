@@ -8,7 +8,7 @@
   <br />
   <img src="./assets/logo.png" width="160" height="160">
   <h1>
-    Mousio
+    Mousio Hint
   </h1>
   <!--rehype:style=border: 0;-->
   <p>
@@ -17,8 +17,8 @@
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/Mousio/6746747327" title="Mousio for macOS">
-      <img alt="Mousio AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://github.com/jaywcjlove/mousio-hint/releases/latest/" title="Mousio Hint for macOS">
+      <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
     </a>
   </p>
 </div>

@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="86" alt="Mousio Hint" src="https://github.com/user-attachments/assets/c0802477-f2bf-4245-9e51-43ea810b1e3d"> Please provide as much detail as possible about your support request or feedback.
+        <img align="right" height="86" alt="Mousio Hint" src="https://github.com/user-attachments/assets/47e2ec1e-e40e-4755-8e9e-be421aa9aecc"> Please provide as much detail as possible about your support request or feedback.
         
         Mousio Hint is a companion tool for Mousio that shows keyboard shortcut hints on UI elements, enabling fast mouse pointer movement. Works seamlessly with Mousio's scroll control, cursor movement, and grid positioning features.
 
