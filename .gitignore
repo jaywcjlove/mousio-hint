@@ -1,6 +1,8 @@
 dist
+
 *.app
 *.zip
+.releases
 
 .DS_Store
 .cache
