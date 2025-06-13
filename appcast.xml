@@ -3,6 +3,23 @@
     <channel>
         <title>MousioHint_v1.1.0</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Fri, 13 Jun 2025 17:02:30 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+    <li>feat: add option to auto-click after exact match.</li>
+    <li>fix: resolve issue where some keys stop working after exit.</li>
+    <li>fix: correct typo.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.2.0/MousioHint_v1.2.0.zip" length="2316520" type="application/octet-stream" sparkle:edSignature="/LQgFyBpo5g6j7/lbgtnclvU1eAa9xX+cWmZlEJgPM3n4dFnx9Ra3rYRpwxgytN6W+yqYFKPUR7EjThY6TVoCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.2.0/MousioHint_v1.2.04-2.delta" sparkle:deltaFrom="2" length="136990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="846480" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ltnMvmHIlwSvwLC0o5U4Lk5X1wbZMAIk9nRZqd6fm8CFNLYrLdgnNv6Ru4l1l8W0kdIlA5hrpgTaQjJp3+GpAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Thu, 12 Jun 2025 20:12:56 +0800</pubDate>
             <sparkle:version>2</sparkle:version>
