@@ -19,7 +19,7 @@
   </p>
   <p>
     <a target="_blank" href="https://github.com/jaywcjlove/mousio-hint/releases/latest/" title="Mousio Hint for macOS">
-      <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg">
+      <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51" />
     </a>
   </p>
 </div>
