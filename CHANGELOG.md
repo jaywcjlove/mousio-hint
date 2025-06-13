@@ -10,6 +10,10 @@ Changelog
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.3.1](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.3.1)
+
+1. fix: resolve issue where elements in web pages cannot be found in browsers.
+
 ## [v1.3.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.3.0)
 
 1. ui: refine the UI for checking updates.

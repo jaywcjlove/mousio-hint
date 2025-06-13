@@ -10,6 +10,10 @@
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.3.1](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.3.1)
+
+1. 修复：解决浏览器中网页元素无法被识别的问题。
+
 ## [v1.3.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.3.0)
 
 1. UI：优化检查更新的界面。
