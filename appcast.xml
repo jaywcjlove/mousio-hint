@@ -1,7 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MousioHint_v1.1.0</title>
+        <title>Mousio Hint</title>
+        <item>
+            <title>1.3.0</title>
+            <pubDate>Fri, 13 Jun 2025 22:42:47 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+    <li>ui: refine the UI for checking updates.</li>
+    <li>feat: add option to hide settings view on launch.</li>
+    <li>feat: add "Check for Updates" button.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.3.0/MousioHint_v1.3.0.zip" length="2322814" type="application/octet-stream" sparkle:edSignature="3d7ru4PLPKwEafpAdNCTCeimXRv5q7alCgwaWedhah1m7etMW3L6bV7TbDir7hLr5iXDn1aCwykwKfSXFvy7DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.3.0/MousioHint_v1.3.05-4.delta" sparkle:deltaFrom="4" length="158006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="846480" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="YE7tNzSBMKIoRTAgDZph6tldr9q9ntMzOwK2l2eLRVt105BwFEWzOJ0P7j8zw5jE731A3CZf5iTNB53k0o9uBA=="/>
+                <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.3.0/MousioHint_v1.3.05-2.delta" sparkle:deltaFrom="2" length="168818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="846480" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="M0DHqf0cxAn1jne56oCuBMDmq9PVJFzZWIkHsCJLVBzCJUIbZJYXlqT6mpcdQtkBK4HQIqMcFNxONaoRg5Y1Bw=="/>
+            </sparkle:deltas>
+        </item>
         <item>
             <title>1.2.0</title>
             <pubDate>Fri, 13 Jun 2025 17:02:30 +0800</pubDate>
