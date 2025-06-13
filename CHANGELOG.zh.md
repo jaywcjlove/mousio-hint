@@ -10,6 +10,10 @@
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.4.0)
+
+1. 功能：支持使用 F1~F2 快速激活提示模式。
+
 ## [v1.3.1](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.3.1)
 
 1. 修复：解决浏览器中网页元素无法被识别的问题。

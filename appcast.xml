@@ -3,6 +3,18 @@
     <channel>
         <title>Mousio Hint</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Sat, 14 Jun 2025 00:59:04 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+    <li>feat: support using F1~F2 to quickly activate hint mode.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.4.0/MousioHint_v1.4.0.zip" length="2336070" type="application/octet-stream" sparkle:edSignature="VFllaUsX/oA2nodbtRM99s48iSk5a8vvVFYo9PW2ABwGLpKeNgzU9fHLmY4v2OMSIWDi4Ax2HFR3PMPD+fr9Cw=="/>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Sat, 14 Jun 2025 00:03:48 +0800</pubDate>
             <link>https://github.com/jaywcjlove/mousio-hint</link>
