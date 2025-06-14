@@ -10,6 +10,10 @@
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.5.1](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.5.1)
+
+1. fix: 修复搜索匹配问题。
+
 ## [v1.5.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.5.0)
 
 1. feat: 新增菜单栏支持 Hint 功能。
