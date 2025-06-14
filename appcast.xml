@@ -3,6 +3,21 @@
     <channel>
         <title>Mousio Hint</title>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Sun, 15 Jun 2025 00:04:54 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>feat: add hint support for menu bar. </li>
+<li>perf: improve performance of element retrieval. </li>
+<li>feat: improve hint detection for app switching hotkeys. </li>
+<li>feat: support using F1–F2 to quickly activate hint mode. </li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.5.0/MousioHint_v1.5.0.zip" length="2336307" type="application/octet-stream" sparkle:edSignature="HRQkE+P1+tN1PQiGhvhP5z1heHZFt16tWfXT+foajaLRgVztEjlKaT7OIzsoxXUVXmwLmrwL9DJRj50g6QX0Cw=="/>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Sat, 14 Jun 2025 00:59:04 +0800</pubDate>
             <link>https://github.com/jaywcjlove/mousio-hint</link>
