@@ -10,6 +10,13 @@
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.5.0)
+
+1. feat: 新增菜单栏支持 Hint 功能。
+2. feat: 优化应用切换快捷键的 Hint 检测。
+3. feat: 支持使用 F1–F2 快速激活 Hint 模式。
+4. perf: 优化元素获取性能。
+
 ## [v1.4.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.4.0)
 
 1. 功能：支持使用 F1~F2 快速激活提示模式。
