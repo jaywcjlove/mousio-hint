@@ -3,6 +3,21 @@
     <channel>
         <title>Mousio Hint</title>
         <item>
+            <title>1.5.1</title>
+            <pubDate>Sun, 15 Jun 2025 00:35:24 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>fix: fix search matching issue.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.5.1/MousioHint_v1.5.1.zip" length="2336267" type="application/octet-stream" sparkle:edSignature="LyoZjTjP7fmkI29z7OSker/IYJ7gPWYANLEvqV0pN24hJEVdC+582Piwva9j93CEMCKA6Hr5KjB+NDYttd+aBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.5.1/MousioHint_v1.5.19-8.delta" sparkle:deltaFrom="8" length="83206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="846480" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4+kKyhqi7Q+z7nccAYfUd/c5vPGWu6TQQicfb6snVlhabk1aJEnB0a9KW0QIARYMwPJ1BlFVEpqbn0/UFrFuDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Sun, 15 Jun 2025 00:04:54 +0800</pubDate>
             <link>https://github.com/jaywcjlove/mousio-hint</link>
