@@ -44,4 +44,8 @@ By combining this with the powerful features offered by [Mousio](https://apps.ap
 - 🎯 Precise cursor movement
 - 🧭 Grid navigation and focus positioning
 
+![Mousio](./assets/mousio3.gif)
+
+![Mousio](./assets/mousio4.gif)
+
 You'll be able to achieve a highly efficient operating experience that's **almost entirely free from mouse dependency**.

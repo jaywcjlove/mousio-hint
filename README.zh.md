@@ -44,4 +44,8 @@ Mousio Hint 的核心功能是在屏幕上的界面元素旁生成**快捷键提
 - 🎯 光标精准移动
 - 🧭 网格导航与焦点定位
 
+![Mousio](./assets/mousio3.gif)
+
+![Mousio](./assets/mousio4.gif)
+
 您将能够实现**几乎完全脱离鼠标的高效操作体验**。
