@@ -3,6 +3,15 @@
     <channel>
         <title>Mousio Hint</title>
         <item>
+            <title>1.5.2</title>
+            <pubDate>Wed, 18 Jun 2025 00:13:05 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.5.2/MousioHint_v1.5.2.zip" length="2332316" type="application/octet-stream" sparkle:edSignature="RVO5EiSkzDUbj7rwohh83EYt6UKo4ROJJrKaICQH9N7M5wCKGypy9G9WQqulpuxkyUZfIT+g5H1btIkTNtWpCw=="/>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>Sun, 15 Jun 2025 00:35:24 +0800</pubDate>
             <link>https://github.com/jaywcjlove/mousio-hint</link>
