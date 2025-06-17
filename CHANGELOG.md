@@ -10,6 +10,11 @@ Changelog
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.5.2](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.5.2)
+
+1. fix: fix prompt response disorder issue
+2. fix: fix event blocking issue.
+
 ## [v1.5.1](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.5.1)
 
 1. fix: fix search matching issue.
