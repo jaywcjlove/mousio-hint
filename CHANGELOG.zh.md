@@ -10,6 +10,12 @@
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.6.0)
+
+1. feat: 添加重启应用选项  
+2. chore: 修改 Dock 自动隐藏配置  
+3. fix: 修复隐藏 Dock 图标时的冲突问题  
+
 ## [v1.5.2](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.5.2)
 
 1. fix: 修复提示响应错乱问题

@@ -3,6 +3,20 @@
     <channel>
         <title>Mousio Hint</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Tue, 01 Jul 2025 15:25:46 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>feat: add option to restart application.</li>
+<li>chore: update Dock auto-hide configuration.</li>
+<li>fix: fix conflict issue when hiding Dock icon.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.6.0/MousioHint_v1.6.0.zip" length="2337224" type="application/octet-stream" sparkle:edSignature="r8DA+YbS70ll0Fvt08Vx5xBrf9SpDWSEzlyC3dluEYAPd2tpaYiNS0QqTuqb3a2zYy3t17wUlkNzT3/7jB9FDw=="/>
+        </item>
+        <item>
             <title>1.5.2</title>
             <pubDate>Wed, 18 Jun 2025 00:13:05 +0800</pubDate>
             <link>https://github.com/jaywcjlove/mousio-hint</link>
