@@ -24,13 +24,13 @@
   </p>
 </div>
 
-Mousio Hint is an auxiliary enhancement tool that works in conjunction with the main [Mousio](https://apps.apple.com/app/Mousio/6746747327) app. Its purpose is to **significantly boost your system operating efficiency through keyboard control**.
-
 ![Mousio Hint](./assets/mousio-hint.gif)
 
-Mousio Hint's core function is to generate **keyboard shortcut hints** next to on-screen UI elements. These hints allow you to quickly move your mouse pointer to the target location using only your keyboard, completely eliminating the need for manual mouse operation.
-
 ![Mousio Hint](./assets/mousio-hint2.gif)
+
+Mousio Hint is an auxiliary enhancement tool that works in conjunction with the main [Mousio](https://apps.apple.com/app/Mousio/6746747327) app. Its purpose is to **significantly boost your system operating efficiency through keyboard control**.
+
+Mousio Hint's core function is to generate **keyboard shortcut hints** next to on-screen UI elements. These hints allow you to quickly move your mouse pointer to the target location using only your keyboard, completely eliminating the need for manual mouse operation.
 
 The main [Mousio](https://apps.apple.com/app/Mousio/6746747327) app supports running in sandbox mode. However, Mousio Hint **cannot function properly in a sandboxed environment** because it requires access to and location of UI elements. Please note that Mousio Hint is essentially an auxiliary positioning tool that links with Mousio through its settings.
 
