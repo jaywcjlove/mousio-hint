@@ -10,6 +10,11 @@ Changelog
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.6.1](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.6.1)
+
+1. chore: update main menu.
+2. fix: fix the hide Dock icon setting feature.
+
 ## [v1.6.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.6.0)
 
 1. feat: add option to restart application.
