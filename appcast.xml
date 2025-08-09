@@ -3,6 +3,19 @@
     <channel>
         <title>Mousio Hint</title>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Sat, 09 Aug 2025 22:10:57 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>chore: update main menu.</li>
+<li>fix: fix the hide Dock icon setting feature.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.6.1/MousioHint_v1.6.1.zip" length="2361390" type="application/octet-stream" sparkle:edSignature="55fNGslnC7rttXb0t+KkYHngu6UPkG1JSS9YAg5lNDK3s+8VZcnIex4FZkyE58uy3QA53Q3AD31we3MqMg0ECQ=="/>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Tue, 01 Jul 2025 15:25:46 +0800</pubDate>
             <link>https://github.com/jaywcjlove/mousio-hint</link>
