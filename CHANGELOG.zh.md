@@ -10,6 +10,10 @@
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.7.0)
+
+1. feat: 添加 macOS 26 支持
+
 ## [v1.6.1](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.6.1)
 
 1. chore: 更新主菜单。

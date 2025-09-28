@@ -3,6 +3,21 @@
     <channel>
         <title>Mousio Hint</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Sun, 28 Sep 2025 22:13:01 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>feat: add support for macOS 26.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.7.0/MousioHint_v1.7.0.zip" length="2344478" type="application/octet-stream" sparkle:edSignature="LrY4wAESnwialam7NVSVQ+e2dYGqK7UjCdXKG93tXC52x+ZXY2KgraIyLiIlomUvWgG0loQtVTFO42TEa9iUCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.7.0/MousioHint14-13.delta" sparkle:deltaFrom="13" length="859214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="846480" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="c0UM3IceX/Kl+Ui35EkfzLV0yMVdZqK9qJ7HrpZYplCrF113Ru6ONqDtpMtpvrY1m37Ac8kABlzRHxVHYV63Dw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.1</title>
             <pubDate>Sat, 09 Aug 2025 22:10:57 +0800</pubDate>
             <link>https://github.com/jaywcjlove/mousio-hint</link>
