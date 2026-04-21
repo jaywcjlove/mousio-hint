@@ -30,15 +30,15 @@
 
 **Mousio Hint** displays **keyboard shortcut hints** next to interface elements on your screen. With these hints, you can quickly move the mouse pointer to target locations using only your keyboard—no manual mouse movement required.
 
-It works as a companion enhancement to [Mousio](https://apps.apple.com/app/Mousio/6746747327), designed to **significantly boost your system navigation efficiency through keyboard control**.
+It works as a companion enhancement to [Mousio](https://jaywcjlove.github.io/maslink/?id=6746747327), designed to **significantly boost your system navigation efficiency through keyboard control**.
 
-The main [Mousio](https://apps.apple.com/app/Mousio/6746747327) app supports running in sandbox mode. However, Mousio Hint **cannot function properly in a sandboxed environment** because it requires access to and location of UI elements. Please note that Mousio Hint is essentially an auxiliary positioning tool that links with Mousio through its settings.
+The main [Mousio](https://jaywcjlove.github.io/maslink/?id=6746747327) app supports running in sandbox mode. However, Mousio Hint **cannot function properly in a sandboxed environment** because it requires access to and location of UI elements. Please note that Mousio Hint is essentially an auxiliary positioning tool that links with Mousio through its settings.
 
 ![Mousio Hint](./assets/mousio-hint3.gif)
 
 In some applications, if the system cannot fully retrieve all UI elements, you can directly use Mousio. In such cases, the operating experience will be more akin to playing a game, giving you **precise control over the mouse cursor's position**.
 
-By combining this with the powerful features offered by [Mousio](https://apps.apple.com/app/Mousio/6746747327), including:
+By combining this with the powerful features offered by [Mousio](https://jaywcjlove.github.io/maslink/?id=6746747327), including:
 
 - ⌨️ Keyboard scroll wheel control
 - 🎯 Precise cursor movement
