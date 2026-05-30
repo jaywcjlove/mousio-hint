@@ -24,6 +24,10 @@
   </p>
 </div>
 
+```bash
+$ brew install --cask jaywcjlove/tap/mousio-hint
+```
+
 ![Mousio Hint](./assets/mousio-hint.gif)
 
 ![Mousio Hint](./assets/mousio-hint2.gif)
