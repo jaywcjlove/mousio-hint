@@ -3,6 +3,25 @@
     <channel>
         <title>Mousio Hint</title>
         <item>
+            <title>1.8.0</title>
+            <pubDate>Wed, 19 Aug 2026 01:33:27 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>feat: upgrade MyAppListKit to 5.2.0 and migrate to MyAppListKitApps </li>
+<li>feat: integrate PermissionFlow and fix click freeze after Accessibility re-grant </li>
+<li>feat: add URLSchemes. </li>
+<li>ui: Optimize the settings interface. </li>
+<li>fix: resolve cursor positioning issue from Mousio & Mousio Hint startup order. </li>
+<li>fix: update coordinate conversion and shortcut API compatibility </li>
+<li>chore: Update Logo. </li>
+<li>i18n: complete translations for all supported locales </li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.8.0/MousioHint_v1.8.0.zip" length="3808354" type="application/octet-stream" sparkle:edSignature="93O3LvEYY6FLHjvtoTvDL5/Ck3+EU05JnjAje9Puxr/SyG772pJKk3my6xT1qAgBDr5Rgp/3ZpqFFHWuB5ttAA=="/>
+        </item>
+        <item>
             <title>1.7.0</title>
             <pubDate>Sun, 28 Sep 2025 22:13:01 +0800</pubDate>
             <link>https://github.com/jaywcjlove/mousio-hint</link>
