@@ -8,10 +8,10 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
           
       - name: Create Tag
         id: create_tag
@@ -42,9 +42,25 @@ jobs:
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/mousio-hint
+          homepage: https://wangchujiang.com/mousio-hint/
           tocs: false
           element: 
             wrapper: style=max-width:720px;
+          meta:
+            - <meta name="author" content="Kenny Wong">
+            - <meta property="og:site_name" content="<%= site %>">
+            - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
+            - <meta property="og:image" content="<%=homepage%>assets/social-preview.png">
+            - <meta property="og:type" content="application">
+            - <meta property="og:title" content="<%= site %>">
+            - <meta property="og:description" content="<%= description%>">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/social-preview.png">
+            - <meta property="twitter:site" content="@jaywcjlove">
+            - <meta property="twitter:creator" content="jaywcjlove">
+            - <meta property="twitter:card" content="summary_large_image">
+            - <meta property="twitter:title" content="<%= site %> - <%= description%>">
+            - <meta property="twitter:description" content="<%= description%>">
+            - <meta name="apple-itunes-app" content="app-id=6737160756">
           menus:
             Home: index.html
             Mousio: https://wangchujiang.com/mousio/
@@ -65,6 +81,7 @@ jobs:
       - run: npm install idoc@1 -g
       - run: idoc
       - run: cp appcast.xml dist
+      - run: cp -rp assets/social-preview.png dist/assets/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
