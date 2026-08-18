@@ -28,6 +28,14 @@
 $ brew install --cask jaywcjlove/tap/mousio-hint
 ```
 
+在 Terminal.app 或 bash 中打开 Mousio Hint：
+
+```bash
+open "mousiohint://open"
+```
+
+或者在浏览器地址栏打开 `mousiohint://open`。
+
 ![Mousio Hint](./assets/mousio-hint.gif)
 
 ![Mousio Hint](./assets/mousio-hint2.gif)
