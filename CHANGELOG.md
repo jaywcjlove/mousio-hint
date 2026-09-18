@@ -10,6 +10,21 @@ Changelog
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.8.1](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.8.1)
+
+1. fix: optimize command menu icon display issue.
+
+## [v1.8.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.8.0)
+
+1. feat: upgrade MyAppListKit to 5.2.0 and migrate to MyAppListKitApps 
+2. feat: integrate PermissionFlow and fix click freeze after Accessibility re-grant 
+3. feat: add URLSchemes. 
+4. ui: Optimize the settings interface. 
+5. fix: resolve cursor positioning issue from Mousio & Mousio Hint startup order. 
+6. fix: update coordinate conversion and shortcut API compatibility 
+7. chore: Update Logo. 
+8. i18n: complete translations for all supported locales 
+
 ## [v1.7.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.7.0)
 
 1. feat: add support for macOS 26.

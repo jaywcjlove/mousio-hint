@@ -10,6 +10,21 @@
     <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51">
 </a>
 
+## [v1.8.1](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.8.1)
+
+1. fix: 优化 command 菜单图标展示问题
+
+## [v1.8.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.8.0)
+
+1. feat: 升级 MyAppListKit 至 5.2.0，并迁移至 MyAppListKitApps
+2. feat: 集成 PermissionFlow，修复重新授予辅助功能权限后点击卡顿问题
+3. feat: 增加 URLScheme 支持
+4. ui: 优化设置界面
+5. fix: 解决因 Mousio 与 Mousio Hint 启动顺序导致的光标定位异常
+6. fix: 更新坐标转换逻辑与快捷键 API 兼容性
+7. chore: 更新 Logo
+8. i18n: 完成所有支持语种的翻译
+
 ## [v1.7.0](https://github.com/jaywcjlove/mousio-hint/releases/tag/v1.7.0)
 
 1. feat: 添加 macOS 26 支持
