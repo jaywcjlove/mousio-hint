@@ -3,6 +3,18 @@
     <channel>
         <title>Mousio Hint</title>
         <item>
+            <title>1.8.1</title>
+            <pubDate>Fri, 18 Sep 2026 23:37:44 +0800</pubDate>
+            <link>https://github.com/jaywcjlove/mousio-hint</link>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>fix: optimize command menu icon display issue.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/jaywcjlove/mousio-hint/releases/download/v1.8.1/MousioHint_v1.8.1.zip" length="3978133" type="application/octet-stream" sparkle:edSignature="BzYeePeX/ETUagb7x7c32h4h5f7XJ6rescBwUIVrwOGglbAHxdWe3nfR1MbeQJIFTZbMDJrIsyDisYWl4SwbCw=="/>
+        </item>
+        <item>
             <title>1.8.0</title>
             <pubDate>Wed, 19 Aug 2026 01:33:27 +0800</pubDate>
             <link>https://github.com/jaywcjlove/mousio-hint</link>
