@@ -22,7 +22,7 @@
       <img alt="Mousio Hint AppStore" src="https://jaywcjlove.github.io/sb/download/apple-download.svg" height="51" />
     </a>
   </p>
-</div>
+</div> 
 
 ```bash
 $ brew install --cask jaywcjlove/tap/mousio-hint
